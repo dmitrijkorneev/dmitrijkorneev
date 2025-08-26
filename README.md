@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello, I'm Dmitrij Korneev 👋
 
-<!--
-**dmitrijkorneev/dmitrijkorneev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a bit about me:
 
-Here are some ideas to get you started:
+## About Me
+- 💻 **Frontend Developer** | 🌍 Based in Kazan
+- 🎨 Passionate about creating beautiful, intuitive UIs.
+- 🧑‍🏫 Learning **TypeScript** and **React** (but let's be honest, I still Google "How to use `this`" every now and then).
+- 🎮 When not coding, you'll probably find me either **playing games** or **watching random cat videos**.
+  
+## Technologies & Tools
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+
+
+- ⚡ **Currently working on:** [batch-image-converter](https://glitch.me/batch-image-converter)
+- 📚 **Books on my shelf:** "Eloquent JavaScript".
+- 🎧 **Currently listening to:** Queen because they are just *chef's kiss*.
+
+## GitHub Stats
+![MyGitHubStats](https://github-readme-stats.vercel.app/api?username=dmitrijkorneev&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&line_height=28)
+
+<h3 align="center">Feel free to explore my repositories or contribute to some projects! </h3>
