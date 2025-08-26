@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here's a bit about me:
 
 ## About Me
-- 💻 **Frontend Developer** | 🌍 Based in Kazan
+- 💻 **Frontend Developer** | 🌍 Based in Russia, Kazan
 - 🎨 Passionate about creating beautiful, intuitive UIs.
 - 🧑‍🏫 Learning **TypeScript** and **React** (but let's be honest, I still Google "How to use `this`" every now and then).
 - 🎮 When not coding, you'll probably find me either **playing games** or **watching random cat videos**.
